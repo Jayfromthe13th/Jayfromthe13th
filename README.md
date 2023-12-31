@@ -1,4 +1,4 @@
-# Hi, I'm Jordan Bishop! 👋🏽
+# Hi, I'm Jay! 👋🏽
 
 I'm a blockchain specialist with a passion for smart contract auditing, security engineering, and Solidity development. My goal is to contribute to the growth and security of the decentralized ecosystem. Check out my repositories for some of the projects I've been working on!
 

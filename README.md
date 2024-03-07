@@ -5,9 +5,8 @@ I'm a blockchain specialist with a passion for smart contract auditing, security
 ## 🔭 My Expertise
 
 - Smart Contract Auditing
-- Blockchain Security Engineering
 - Solidity Development
-- Decentralized Application (dApp) Design
+- Move Development
 
 ## 🔐 What I'm Learning
 
@@ -15,8 +14,7 @@ I'm always eager to explore new areas within the blockchain domain. Currently, I
 
 - Layer 2 Scaling Solutions
 - Cross-chain Interoperability
-- Decentralized Finance (DeFi) Innovations
-- Zero-Knowledge (ZK) Security
+- Move & Sui Move Security
 
 ## 📫 Get in Touch
 

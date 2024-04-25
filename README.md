@@ -1,21 +1,43 @@
-# Hi, I'm Jay! 👋🏽
 
-I'm a blockchain specialist with a passion for smart contract auditing, security engineering, and Move development. My goal is to contribute to the growth and security of the decentralized ecosystem. Check out my repositories for some of the projects I've been working on!
 
-## 🔭 My Expertise
 
-- Smart Contract Auditing
-- Solidity Development
-- Move Development
+## Move Audit Reports
 
-## 🔐 What I'm Learning
+The following are audit reports for projects based on the Move programming language:
 
-I'm always eager to explore new areas within the blockchain domain. Currently, I'm diving into:
+- **Studio Miria Audit**
+  - [View Report](https://github.com/Jayfromthe13th/Studio-Miria-audit)
+- **Project Zenith Security Audit**
+  - [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report)
 
-- Layer 2 Scaling Solutions
-- Cross-chain Interoperability
-- Move & Sui Move Security
+## Solidity Audit Reports
 
-## 📫 Get in Touch
+The following are audit reports for projects based on the Solidity programming language:
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordan-bishop-a2503821a/) or reach out via email at jordanbishop1995@icloud.com.
+- **Sayfer CTF Audit**
+  - [View Report](https://github.com/Jayfromthe13th/SayferCTF)
+- **Fortephy Audit Report**
+  - [View Report](https://github.com/Jayfromthe13th/Fortephy-Audit-Report)
+- **Sturdy Audit Report**
+  - [View Report](https://github.com/Jayfromthe13th/Sturdy-Audit-Report)
+
+## Other Audits
+
+Additional security assessments and investigations covering various aspects and technologies:
+
+- **General Security Assessment**
+  - [View Report](https://github.com/Jayfromthe13th/Security_Assessment)
+- **Dreadnought Video Game Security Audit**
+  - [View Report](https://github.com/Jayfromthe13th/Dreadnought-Video-Game-Security-Audit)
+- **Crossmint Audit Report**
+  - [View Report](https://github.com/Jayfromthe13th/Crossmint-Audit-Report-)
+- **Report on Suspected NFT Scam and Fake Profiles**
+  - [View Report](https://github.com/Jayfromthe13th/Report-Investigating-Suspected-NFT-Scam-and-Identifying-the-Use-of-Fake-Profiles)
+
+---
+
+### Additional Information
+
+For further details or inquiries regarding these audits, please contact [info@example.com](mailto:info@example.com).
+
+

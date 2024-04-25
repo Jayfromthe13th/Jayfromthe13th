@@ -20,6 +20,9 @@ The following are audit reports for projects based on the Solidity programming l
   - [View Report](https://github.com/Jayfromthe13th/Fortephy-Audit-Report)
 - **Sturdy Audit Report**
   - [View Report](https://github.com/Jayfromthe13th/Sturdy-Audit-Report)
+ - **Kelp Audit Report**
+  - [View Report]([https://github.com/Jayfromthe13th/Sturdy-Audit-Report](https://github.com/Jayfromthe13th/Kelp.DAO-))
+
 
 ## Other Audits
 

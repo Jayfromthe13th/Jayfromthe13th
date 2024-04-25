@@ -14,7 +14,7 @@ The following are audit reports for projects based on the Move programming langu
 
 The following are audit reports for projects based on the Solidity programming language:
 
-- **Sayfer CTF Audit**
+- **Sayfer Audit**
   - [View Report](https://github.com/Jayfromthe13th/SayferCTF)
 - **Fortephy Audit Report**
   - [View Report](https://github.com/Jayfromthe13th/Fortephy-Audit-Report)

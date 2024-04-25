@@ -38,6 +38,6 @@ Additional security assessments and investigations covering various aspects and 
 
 ### Additional Information
 
-For further details or inquiries regarding these audits, please contact [info@example.com](mailto:info@example.com).
+For further details or inquiries regarding these audits, please contact via Telegram @jayfromthe13th
 
 

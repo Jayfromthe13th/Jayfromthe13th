@@ -10,7 +10,7 @@ The following are audit reports for projects based on the Move programming langu
 - **Project Zenith Security Audit**
   - [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report)
 - **StakeSphere Security Audit**
-  - [View Report]([https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-))
+  - [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)
 
 ## Solidity Audit Reports
 

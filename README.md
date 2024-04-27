@@ -24,14 +24,13 @@ The following are audit reports for projects based on the Solidity programming l
   - [View Report](https://github.com/Jayfromthe13th/Sturdy-Audit-Report)
  - **Kelp Audit Report**
     - [View Report](https://github.com/Jayfromthe13th/Kelp.DAO-)
-
+- **Security Assessment MM**
+  - [View Report](https://github.com/Jayfromthe13th/Security_Assessment)
 
 ## Other Audits
 
 Additional security assessments and investigations covering various aspects and technologies:
 
-- **General Security Assessment**
-  - [View Report](https://github.com/Jayfromthe13th/Security_Assessment)
 - **Dreadnought Video Game Security Audit**
   - [View Report](https://github.com/Jayfromthe13th/Dreadnought-Video-Game-Security-Audit)
 - **Crossmint Audit Report**

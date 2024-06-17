@@ -36,6 +36,7 @@
 | RiverDao | A collateralized debt position protocol. | [View Project](https://github.com/Jayfromthe13th/riverdao-cdp) |
 | Arden | An NFT collection coded in Move. | [View Project](https://github.com/Jayfromthe13th/Arden.move/blob/Wallet/kn.move) |
 | MultiSignature Wallet | Provides simple deposit, spend, and withdraw functionalities with decentralized approval mechanisms. | [View Project](https://github.com/Jayfromthe13th/MultiSignature-Wallet-) |
+| LiquiCrowd | A marketplace for top-tier cryptocurrency asset managers & market makers to borrow at significantly cheaper rates from crowd-funded liquidity pools. Also, a marketplace for investors to find industry-leading systematic trading strategies & enhanced ROI with full transparency using Smart Contracts & Qualified Custodian/s on a Modular Blockchain with best-in-class security. | [View Project](https://github.com/Jayfromthe13th/LiquiCrowd/tree/main) |
 
 
 ### Additional Information

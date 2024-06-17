@@ -26,6 +26,17 @@
 
 ---
 
+## Developer Projects
+
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| Moswap | A decentralized exchange (DEX). | [View Project](https://github.com/Jayfromthe13th/Moswap) |
+| Phallicvitalik | A Solidity-based NFT collection. | [View Project](https://github.com/Jayfromthe13th/phallicvitalik) |
+| BlockBorrow | Allows borrowing stablecoins (Borrwinf) against productive crypto assets using controller management. | [View Project](https://github.com/Jayfromthe13th/BlockBorrow) |
+| RiverDao | A collateralized debt position protocol. | [View Project](https://github.com/Jayfromthe13th/riverdao-cdp) |
+| Arden | An NFT collection coded in Move. | [View Project](https://github.com/Jayfromthe13th/Arden.move/blob/Wallet/kn.move) |
+| MultiSignature Wallet | Provides simple deposit, spend, and withdraw functionalities with decentralized approval mechanisms. | [View Project](https://github.com/Jayfromthe13th/MultiSignature-Wallet-) |
+
 
 ### Additional Information
 

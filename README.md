@@ -5,7 +5,7 @@
 | Studio Miria Audit | [View Report](https://github.com/Jayfromthe13th/Studio-Miria-audit) |
 | Project Zenith Security Audit | [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report) |
 | StakeSphere Security Audit | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-) |
-
+---
 ## Solidity Audit Reports
 
 | Project Name | View Report |
@@ -15,7 +15,7 @@
 | Sturdy Audit Report | [View Report](https://github.com/Jayfromthe13th/Sturdy-Audit-Report) |
 | Kelp Audit Report | [View Report](https://github.com/Jayfromthe13th/Kelp.DAO-) |
 | Security Assessment MM | [View Report](https://github.com/Jayfromthe13th/Security_Assessment) |
-
+---
 ## Other Audits
 
 | Project Name | View Report |

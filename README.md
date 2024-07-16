@@ -40,6 +40,12 @@
 | LiquiCrowd | A marketplace for top-tier cryptocurrency asset managers & market makers to borrow at significantly cheaper rates from crowd-funded liquidity pools. Also, a marketplace for investors to find industry-leading systematic trading strategies & enhanced ROI with full transparency using Smart Contracts & Qualified Custodian/s on a Modular Blockchain with best-in-class security. | [View Project](https://github.com/Jayfromthe13th/LiquiCrowd/tree/main) |
 
 
+## Contributions
+
+| Contributor | Platform | Purpose | View Report |
+|-------------|----------|---------|-------------|
+| Hyacinth | BuggySwap | Identify and understand common vulnerabilities in Move protocols on the Aptos blockchain. | [View Report](https://github.com/Jayfromthe13th/BuggySwap-Move-Audit-Report) |
+
 ### Additional Information
 
 For further details or inquiries regarding these audits, please contact via Telegram @jayfromthe13th

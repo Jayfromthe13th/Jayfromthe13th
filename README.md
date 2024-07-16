@@ -42,9 +42,9 @@
 
 ## Contributions
 
-| Contributor | Platform | Purpose | View Report |
-|-------------|----------|---------|-------------|
-| Hyacinth | BuggySwap | Identify and understand common vulnerabilities in Move protocols on the Aptos blockchain. | [View Report](https://github.com/Jayfromthe13th/BuggySwap-Move-Audit-Report) |
+| Contributor | Project | Purpose | View Report |
+|-------------|---------|---------|-------------|
+| Hyacinth | BuggySwap | This project was coded to help developers find and understand common vulnerabilities in the Move programming language and provide fixes. | [View Report](https://github.com/Jayfromthe13th/BuggySwap-Move-Audit-Report) |
 
 ### Additional Information
 

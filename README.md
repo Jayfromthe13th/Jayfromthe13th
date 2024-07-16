@@ -1,11 +1,12 @@
 ## Move Audit Reports
 
-| Project Name | View Report |
-|--------------|-------------|
-| Studio Mirai Audit | [View Report]([https://github.com/Jayfromthe13th/Studio-Mirai-audit](https://github.com/Jayfromthe13th/Studio-Miria-audit)) |
-| Project Zenith Security Audit | [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report) |
-| StakeSphere Security Audit | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-) |
-| AquaSwap Security Audit | [View Report](https://github.com/Jayfromthe13th/AquaSwap-Security-Audit-Report) |
+| Project Name                 | View Report                                                                       |
+|------------------------------|-----------------------------------------------------------------------------------|
+| Studio Mirai Audit           | [View Report](https://github.com/Jayfromthe13th/Studio-Mirai-audit)                |
+| Project Zenith Security Audit| [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report) |
+| StakeSphere Security Audit   | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)              |
+| AquaSwap Security Audit      | [View Report](https://github.com/Jayfromthe13th/AquaSwap-Security-Audit-Report)    |
+
 
 ## Solidity Audit Reports
 

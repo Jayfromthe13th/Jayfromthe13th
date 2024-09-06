@@ -1,4 +1,4 @@
-## Move Audit Reports
+## Notable Move Audit Reports
 
 | Project Name                 | View Report                                                                       |
 |------------------------------|-----------------------------------------------------------------------------------|
@@ -7,7 +7,7 @@
 | StakeSphere Security Audit   | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)              |
 | AquaSwap Security Audit      | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                  |
 
-## Solidity Audit Reports
+## Notable Solidity Audit Reports
 
 | Project Name | View Report |
 |--------------|-------------|

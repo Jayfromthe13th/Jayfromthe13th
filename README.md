@@ -9,15 +9,17 @@
 
 ## Solidity Audit Report Highlights
 
-| Project Name | View Report |
-|--------------|-------------|
-| Sayfer Audit | [View Report](https://github.com/Jayfromthe13th/SayferCTF) |
-| Fortephy Audit Report | [View Report](https://github.com/Jayfromthe13th/Fortephy-Audit-Report) |
-| Sturdy Audit Report | [View Report](https://github.com/Jayfromthe13th/Sturdy-Audit-Report) |
-| Kelp Audit Report | [View Report](https://github.com/Jayfromthe13th/Kelp.DAO-) |
-| Security Assessment MM | [View Report](https://github.com/Jayfromthe13th/Security_Assessment) |
+| Project Name              | View Report |
+|---------------------------|-------------|
+| Sayfer Audit              | [View Report](https://github.com/Jayfromthe13th/SayferCTF) |
+| Fortephy Audit Report     | [View Report](https://github.com/Jayfromthe13th/Fortephy-Audit-Report) |
+| Sturdy Audit Report       | [View Report](https://github.com/Jayfromthe13th/Sturdy-Audit-Report) |
+| Kelp Audit Report         | [View Report](https://github.com/Jayfromthe13th/Kelp.DAO-) |
+| Security Assessment MM    | [View Report](https://github.com/Jayfromthe13th/Security_Assessment) |
+| Topaz Audit Report        | [View Report](https://github.com/Jayfromthe13th/Topaz.Audit) |
 
 ---
+
 
 ## Other Audits
 

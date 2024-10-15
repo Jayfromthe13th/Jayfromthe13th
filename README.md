@@ -21,7 +21,7 @@
 ---
 
 
-# Formal Verification Highlights
+## Formal Verification Highlights
 
 | Project Name                          | View Report                                                                         |
 |---------------------------------------|------------------------------------------------------------------------------------|

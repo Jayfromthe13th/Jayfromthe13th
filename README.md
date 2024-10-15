@@ -21,6 +21,14 @@
 ---
 
 
+# Formal Verification Highlights
+
+| Project Name                          | View Report                                                                         |
+|---------------------------------------|------------------------------------------------------------------------------------|
+| OL Network Formal Verification        | [View Report](https://github.com/Jayfromthe13th/ol_network_formal_verification)    |
+
+---
+
 ## Other Audits
 
 | Project Name | View Report |

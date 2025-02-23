@@ -3,7 +3,7 @@
 | Project Name                 | View Report                                                                       |
 |------------------------------|-----------------------------------------------------------------------------------|
 | Studio Mirai Audit           | [View Report](https://github.com/Jayfromthe13th/Studio-Miria-audit)                |
-| Project Zenith Security Audit| [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report) |
+| Project Z Security Audit| [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report) |
 | StakeSphere Security Audit   | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)              |
 | AquaSwap Security Audit      | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                  |
 

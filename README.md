@@ -1,11 +1,13 @@
 ## Move Audit Report Highlights
 
-| Project Name                 | View Report                                                                       |
-|------------------------------|-----------------------------------------------------------------------------------|
-| Studio Mirai Audit           | [View Report](https://github.com/Jayfromthe13th/Studio-Miria-audit)                |
-| Project Z Security Audit| [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report) |
-| StakeSphere Security Audit   | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)              |
-| AquaSwap Security Audit      | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                  |
+| Project Name                  | View Report                                                                       |
+|-------------------------------|-----------------------------------------------------------------------------------|
+| Studio Mirai           | [View Report](https://github.com/Jayfromthe13th/Studio-Miria-audit)               |
+| Project Z      | [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report) |
+| StakeSphere    | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)             |
+| AquaSwap       | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                 |
+| Dexlyn Bridge | [View Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf) |
+| Thala          | *Coming Soon*                                                                     |
 
 ## Solidity Audit Report Highlights
 
@@ -17,7 +19,8 @@
 | Kelp Audit Report         | [View Report](https://github.com/Jayfromthe13th/Kelp.DAO-) |
 | Security Assessment MM    | [View Report](https://github.com/Jayfromthe13th/Security_Assessment) |
 | Topaz Audit Report        | [View Report](https://github.com/Jayfromthe13th/Topaz.Audit) |
-
+| DragonSwap          | *Coming Soon*    
+| HyperCycle          | *Coming Soon*  
 ---
 
 
@@ -26,6 +29,7 @@
 | Project Name                          | View Report                                                                         |
 |---------------------------------------|------------------------------------------------------------------------------------|
 | OL Network Formal Verification        | [View Report](https://github.com/Jayfromthe13th/ol_network_formal_verification)    |
+| Thala          | *Coming Soon* 
 
 ---
 

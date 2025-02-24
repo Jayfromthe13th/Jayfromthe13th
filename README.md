@@ -2,13 +2,14 @@
 
 | Project Name                  | View Report                                                                       |
 |-------------------------------|-----------------------------------------------------------------------------------|
-| Studio Mirai           | [View Report](https://github.com/Jayfromthe13th/Studio-Miria-audit)               |
+| Studio Mirai           | [View Report](https://github.com/Jayfromthe13th/OL-Audit/blob/Wallet/audit.md)              |
 | OL Network          | [View Report](https://github.com/Jayfromthe13th/Studio-Miria-audit)               |
 | Project Z      | [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report) |
 | StakeSphere    | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)             |
 | AquaSwap       | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                 |
 | Dexlyn Bridge | [View Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf) |
-| Thala          | *Coming Soon*                                                                     |
+| Thala          | *Coming Soon*    
+| Aave         | *Coming Soon*  
 
 ## Solidity Audit Report Highlights
 

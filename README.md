@@ -3,6 +3,7 @@
 | Project Name                  | View Report                                                                       |
 |-------------------------------|-----------------------------------------------------------------------------------|
 | Studio Mirai           | [View Report](https://github.com/Jayfromthe13th/Studio-Miria-audit)               |
+| OL Network          | [View Report](https://github.com/Jayfromthe13th/Studio-Miria-audit)               |
 | Project Z      | [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report) |
 | StakeSphere    | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)             |
 | AquaSwap       | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                 |

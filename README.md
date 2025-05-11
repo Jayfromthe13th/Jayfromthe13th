@@ -8,6 +8,7 @@
 | StakeSphere    | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)             |
 | AquaSwap       | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                 |
 | Dexlyn Bridge | [View Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf) |
+| Kofi | [View Report](https://github.com/KofiFinance/audits/blob/main/Kofi%20Finance%20-%20Zenith%20Audit%20Report.pdf) |
 | Thala          | *Coming Soon*    
 | Aave         | *Coming Soon*  
 

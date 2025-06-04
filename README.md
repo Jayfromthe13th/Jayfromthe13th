@@ -35,6 +35,7 @@
 | Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-FV) 
 | Aave          |  *Comming Soon*  
 | FullSail          |  *Comming Soon*  
+| Echo          |  *Comming Soon*  
 
 ---
 

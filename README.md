@@ -32,7 +32,7 @@
 | Project Name                          | View Report                                                                         |
 |---------------------------------------|------------------------------------------------------------------------------------|
 | OL Network Formal Verification        | [View Report](https://github.com/Jayfromthe13th/ol_network_formal_verification)    |
-| Thala          | *Coming Soon* 
+| Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-FV) 
 
 ---
 

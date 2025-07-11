@@ -11,6 +11,7 @@
 | Kofi | [View Report](https://github.com/KofiFinance/audits/blob/main/Kofi%20Finance%20-%20Zenith%20Audit%20Report.pdf) |
 | Thala          | *Coming Soon*    
 | Aave         | *Coming Soon*  
+| Navi         | *Coming Soon*  
 
 ## Solidity Audit Report Highlights
 

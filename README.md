@@ -66,6 +66,14 @@
 | MultiSignature Wallet | Provides simple deposit, spend, and withdraw functionalities with decentralized approval mechanisms.                       | [View Project](https://github.com/Jayfromthe13th/MultiSignature-Wallet-) |
 | LiquiCrowd      | A marketplace for top-tier cryptocurrency asset managers & market makers to borrow at significantly cheaper rates from crowd-funded liquidity pools. | [View Project](https://github.com/Jayfromthe13th/LiquiCrowd/tree/main) |
 
+## Sui Formal Verification Examples
+
+| Project Name           | View Report                                                                 |
+|------------------------|------------------------------------------------------------------------------|
+| Crowdfunding Example   | [View Report](https://github.com/Jayfromthe13th/crowdfunding-example)       |
+| Ensure Example         | [View Report](https://github.com/Jayfromthe13th/ensure-example)             |
+
+
 ## Contributions
 
 | Contributor | Project     | Purpose                                                                                      | View Report                                                                 |

@@ -17,14 +17,14 @@
 
 | Project Name              | View Report |
 |---------------------------|-------------|
-| Sayfer Audit              | [View Report](https://github.com/Jayfromthe13th/SayferCTF) |
-| Fortephy Audit Report     | [View Report](https://github.com/Jayfromthe13th/Fortephy-Audit-Report) |
-| Sturdy Audit Report       | [View Report](https://github.com/Jayfromthe13th/Sturdy-Audit-Report) |
-| Kelp Audit Report         | [View Report](https://github.com/Jayfromthe13th/Kelp.DAO-) |
-| Security Assessment MM    | [View Report](https://github.com/Jayfromthe13th/Security_Assessment) |
-| Topaz Audit Report        | [View Report](https://github.com/Jayfromthe13th/Topaz.Audit) |
-| DragonSwap          | *Coming Soon*    
-| HyperCycle          | *Coming Soon*  
+| Sayfer              | [View Report](https://github.com/Jayfromthe13th/SayferCTF) |
+| Fortephy     | [View Report](https://github.com/Jayfromthe13th/Fortephy-Audit-Report) |
+| Sturdy        | [View Report](https://github.com/Jayfromthe13th/Sturdy-Audit-Report) |
+| Kelp       | [View Report](https://github.com/Jayfromthe13th/Kelp.DAO-) |
+| LayerZero   | [View Report](https://paladinsec.co/projects/layerzero) |
+| Topaz       | [View Report](https://github.com/Jayfromthe13th/Topaz.Audit) |
+| DragonSwap          | [View Report](https://paladinsec.co/projects/dragonswap/)   
+| HyperCycle          | [View Report](https://paladinsec.co/projects/hypercycle/)
 ---
 
 

@@ -73,7 +73,7 @@
 |------------------------|------------------------------------------------------------------------------|
 | Crowdfunding Example   | [View Report](https://github.com/Jayfromthe13th/crowdfunding-example)       |
 | Ensure Example         | [View Report](https://github.com/Jayfromthe13th/ensure-example)             |
-
+| Precision Lost    | [View Report](https://github.com/Jayfromthe13th/Precision_Lost--example)     | 
 
 ## Contributions
 

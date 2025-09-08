@@ -17,6 +17,18 @@
 | Navi         | *Coming Soon*  
 | LayerZero         | *Coming Soon*  
 
+
+## Formal Verification Audit Highlights
+
+| Project Name                          | View Report                                                                         |
+|---------------------------------------|------------------------------------------------------------------------------------|
+| OL Network Formal Verification        | [View Report](https://github.com/Jayfromthe13th/ol_network_formal_verification)    |
+| Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-FV) 
+| Aave          | [View Report](https://www.notion.so/Formal-Verification-Overview-for-aptos-v3-1b353dbbf4d580689560cb1110b90577) 
+| FullSail          |  [[View Report]](https://www.notion.so/Full-Sail-a1bcc2e7df084345a8b313db4c491c96)  
+| Echo          |  *Coming Soon*  
+
+
 ## Solidity Audit Report Highlights
 
 | Project Name              | View Report |
@@ -32,15 +44,6 @@
 ---
 
 
-## Formal Verification Highlights
-
-| Project Name                          | View Report                                                                         |
-|---------------------------------------|------------------------------------------------------------------------------------|
-| OL Network Formal Verification        | [View Report](https://github.com/Jayfromthe13th/ol_network_formal_verification)    |
-| Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-FV) 
-| Aave          |  *Coming Soon*  
-| FullSail          |  *Coming Soon*  
-| Echo          |  *Coming Soon*  
 
 
 

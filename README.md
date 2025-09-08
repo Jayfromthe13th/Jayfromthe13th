@@ -12,7 +12,7 @@
 | Aave  Core       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Core%20V3.0.2%20Report.pdf)                 |
 | Aave  Core v2       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Core%20V3.1-V3.3%20Report.pdf)        
 | Aave  Peripheral       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Periphery%20V3.0.2%20Report.pdf)         
-| Poel         | *Coming Soon*    
+| Poel         | [View Report](https://www.notion.so/Poel-Audit-7256847d27424a7a9fb5b17e449b7221)   
 | Thala          | *Coming Soon*  
 | Navi         | *Coming Soon*  
 | LayerZero         | *Coming Soon*  
@@ -25,7 +25,7 @@
 | OL Network        | [View Report](https://github.com/Jayfromthe13th/ol_network_formal_verification)    |
 | Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-FV) 
 | Aave          | [View Report](https://www.notion.so/Formal-Verification-Overview-for-aptos-v3-1b353dbbf4d580689560cb1110b90577) 
-| FullSail          |  [[View Report]](https://www.notion.so/Full-Sail-a1bcc2e7df084345a8b313db4c491c96)  
+| FullSail          |  [View Report](https://www.notion.so/Full-Sail-a1bcc2e7df084345a8b313db4c491c96)  
 
 
 ## Solidity Audit Report Highlights
@@ -46,7 +46,6 @@
 
 
 
----
 
 ## Other Audits
 
@@ -58,6 +57,18 @@
 
 ---
 
+
+## Sui Formal Verification Projects
+
+| Project Name           | View Report                                                                 |
+|------------------------|------------------------------------------------------------------------------|
+| Crowdfunding Example   | [View Report](https://github.com/Jayfromthe13th/crowdfunding-example)       |
+| Ensure Example         | [View Report](https://github.com/Jayfromthe13th/ensure-example)             |
+| Precision Lost    | [View Report](https://github.com/Jayfromthe13th/Precision_Lost--example)     | 
+
+
+
+---
 ## Developer Projects
 
 | Project Name    | Description                                                                                                                      | Link |
@@ -73,13 +84,6 @@
 | MultiSignature Wallet | Provides simple deposit, spend, and withdraw functionalities with decentralized approval mechanisms.                       | [View Project](https://github.com/Jayfromthe13th/MultiSignature-Wallet-) |
 | LiquiCrowd      | A marketplace for top-tier cryptocurrency asset managers & market makers to borrow at significantly cheaper rates from crowd-funded liquidity pools. | [View Project](https://github.com/Jayfromthe13th/LiquiCrowd/tree/main) |
 
-## Sui Formal Verification Examples
-
-| Project Name           | View Report                                                                 |
-|------------------------|------------------------------------------------------------------------------|
-| Crowdfunding Example   | [View Report](https://github.com/Jayfromthe13th/crowdfunding-example)       |
-| Ensure Example         | [View Report](https://github.com/Jayfromthe13th/ensure-example)             |
-| Precision Lost    | [View Report](https://github.com/Jayfromthe13th/Precision_Lost--example)     | 
 
 ## Contributions
 

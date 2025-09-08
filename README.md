@@ -8,10 +8,12 @@
 | StakeSphere    | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)             |
 | AquaSwap       | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                 |
 | Dexlyn Bridge | [View Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf) |
-| Kofi | [View Report](https://github.com/KofiFinance/audits/blob/main/Kofi%20Finance%20-%20Zenith%20Audit%20Report.pdf) |
+| Kofi | [View Report](https://github.com/KofiFinance/audits/blob/main/Kofi%20Finance%20-%20Zenith%20Audit%20Report.pdf) |  
+| Aave  Core       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Core%20V3.0.2%20Report.pdf)                 |
+| Aave  Core v2       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Core%20V3.1-V3.3%20Report.pdf)        
+| Aave  Peripheral       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Periphery%20V3.0.2%20Report.pdf)         
 | Poel         | *Coming Soon*    
-| Thala          | *Coming Soon*    
-| Aave         | *Coming Soon*  
+| Thala          | *Coming Soon*  
 | Navi         | *Coming Soon*  
 | LayerZero         | *Coming Soon*  
 

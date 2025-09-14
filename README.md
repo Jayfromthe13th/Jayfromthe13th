@@ -1,6 +1,6 @@
 ## Move Audit Report Highlights
 
-| Project Name                  | View Report                                                                       |
+| Project Name                  | Reports                                                                       |
 |-------------------------------|-----------------------------------------------------------------------------------|
 | Aave  Core       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Core%20V3.0.2%20Report.pdf)                 |
 | Aave  Core v2       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Core%20V3.1-V3.3%20Report.pdf)        
@@ -20,7 +20,7 @@
 
 ## Formal Verification Audit Highlights
 
-| Project Name                          | View Report                                                                         |
+| Project Name                          | Reports                                                                         |
 |---------------------------------------|------------------------------------------------------------------------------------|
 | OL Network        | [View Report](https://github.com/Jayfromthe13th/ol_network_formal_verification)    |
 | Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-FV) 
@@ -30,7 +30,7 @@
 
 ## Solidity Audit Report Highlights
 
-| Project Name              | View Report |
+| Project Name              | Reports |
 |---------------------------|-------------|
 | Sayfer              | [View Report](https://github.com/Jayfromthe13th/SayferCTF) |
 | Fortephy     | [View Report](https://github.com/Jayfromthe13th/Fortephy-Audit-Report) |
@@ -49,7 +49,7 @@
 
 ## Rust & Other Audits
 
-| Project Name | View Report |
+| Project Name | Reports |
 |--------------|-------------|
 | Wonderland Security Audit | [View Report](https://github.com/Jayfromthe13th/Wonderland-Audit) |
 | Dreadnought Video Game Security Audit | [View Report](https://github.com/Jayfromthe13th/Dreadnought-Video-Game-Security-Audit) |
@@ -61,7 +61,7 @@
 
 ## Sui Formal Verification Projects
 
-| Project Name           | View Report                                                                 |
+| Project Name           | Reports                                                                 |
 |------------------------|------------------------------------------------------------------------------|
 | Crowdfunding Example   | [View Report](https://github.com/Jayfromthe13th/crowdfunding-example)       |
 | Ensure Example         | [View Report](https://github.com/Jayfromthe13th/ensure-example)             |

@@ -51,7 +51,7 @@
 
 | Project Name | View Report |
 |--------------|-------------|
-| Wonderland Security Audit | [View Report]((https://github.com/Jayfromthe13th/Wonderland-Audit)) |
+| Wonderland Security Audit | [View Report](https://github.com/Jayfromthe13th/Wonderland-Audit) |
 | Dreadnought Video Game Security Audit | [View Report](https://github.com/Jayfromthe13th/Dreadnought-Video-Game-Security-Audit) |
 | Crossmint Audit Report | [View Report](https://github.com/Jayfromthe13th/Crossmint-Audit-Report-) |
 | Report on Suspected NFT Scam and Fake Profiles | [View Report](https://github.com/Jayfromthe13th/Report-Investigating-Suspected-NFT-Scam-and-Identifying-the-Use-of-Fake-Profiles) |

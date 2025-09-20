@@ -15,9 +15,10 @@
 | AquaSwap       | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                 |
 | Thala          | *Coming Soon*  
 | Navi         | *Coming Soon*  
-| LayerZero         | *Coming Soon*  
+| Aptos LayerZero         | *Coming Soon*  
+| Sui LayerZero         | *Coming Soon*  
 
-
+ 
 ## Formal Verification Audit Highlights
 
 | Project Name                          | Reports                                                                         |

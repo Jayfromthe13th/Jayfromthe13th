@@ -4,7 +4,8 @@
 |-------------------------------|-----------------------------------------------------------------------------------|
 | Aave  Core       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Core%20V3.0.2%20Report.pdf)                 |
 | Aave  Core v2       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Core%20V3.1-V3.3%20Report.pdf)        
-| Aave  Peripheral       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Periphery%20V3.0.2%20Report.pdf)    
+| Aave  Peripheral       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Periphery%20V3.0.2%20Report.pdf)   
+| Navi         | [View Report](https://github.com/Jayfromthe13th/Navi-Audit/blob/Wallet/Navi%20audit%20report%20by%20Certora.pdf)  
 | Kofi | [View Report](https://github.com/KofiFinance/audits/blob/main/Kofi%20Finance%20-%20Zenith%20Audit%20Report.pdf) |  
 | Poel         | [View Report](https://www.notion.so/Poel-Audit-7256847d27424a7a9fb5b17e449b7221)   
 | Studio Mirai           | [View Report](https://github.com/Jayfromthe13th/OL-Audit/blob/Wallet/audit.md)              |
@@ -14,7 +15,7 @@
 | StakeSphere    | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)             |
 | AquaSwap       | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                 |
 | Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-Audit-/blob/Wallet/report-cantinacode-thalaswap-xlpt.pdf )
-| Navi         | [View Report](https://github.com/Jayfromthe13th/Navi-Audit/blob/Wallet/Navi%20audit%20report%20by%20Certora.pdf)  
+| Alphalend         | *Coming Soon*  
 | LayerZero - Aptos       | *Coming Soon*  
 | LayerZero - Sui         | *Coming Soon*  
 
@@ -41,7 +42,7 @@
 | Topaz       | [View Report](https://github.com/Jayfromthe13th/Topaz.Audit) |
 | DragonSwap          | [View Report](https://paladinsec.co/projects/dragonswap/)   
 | HyperCycle          | [View Report](https://paladinsec.co/projects/hypercycle/)
-| Flying Tulip       | *Coming Soon*  
+| Flying Tulip       | [View Report](https://github.com/Jayfromthe13th/Flying-Tulip-Audit/blob/Wallet/report-cantinacode-flyingtulip-0923%20(3).pdf)
 ---
 
 

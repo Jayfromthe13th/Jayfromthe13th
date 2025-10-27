@@ -14,7 +14,7 @@
 | StakeSphere    | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)             |
 | AquaSwap       | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                 |
 | Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-Audit-/blob/Wallet/report-cantinacode-thalaswap-xlpt.pdf )
-| Navi         | *Coming Soon*  
+| Navi         | [View Report](https://github.com/Jayfromthe13th/Navi-Audit/blob/Wallet/Navi%20audit%20report%20by%20Certora.pdf)  
 | LayerZero - Aptos       | *Coming Soon*  
 | LayerZero - Sui         | *Coming Soon*  
 

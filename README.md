@@ -15,6 +15,7 @@
 | StakeSphere    | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)             |
 | AquaSwap       | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                 |
 | Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-Audit-/blob/Wallet/report-cantinacode-thalaswap-xlpt.pdf )
+| Zetachain         | [View Report](https://github.com/zeta-chain/audit-reports/blob/main/11-07-2025%20Cantina%20SUI%20Audit%20Report.pdf)
 | Alphalend         | *Coming Soon*  
 | Echo         | *Coming Soon*  
 | Matrixport        | *Coming Soon*  

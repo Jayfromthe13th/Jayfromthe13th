@@ -16,6 +16,8 @@
 | AquaSwap       | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                 |
 | Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-Audit-/blob/Wallet/report-cantinacode-thalaswap-xlpt.pdf )
 | Alphalend         | *Coming Soon*  
+| Echo         | *Coming Soon*  
+| Matrixport        | *Coming Soon*  
 | LayerZero - Aptos       | *Coming Soon*  
 | LayerZero - Sui         | *Coming Soon*  
 

@@ -45,6 +45,7 @@
 | DragonSwap          | [View Report](https://paladinsec.co/projects/dragonswap/)   
 | HyperCycle          | [View Report](https://paladinsec.co/projects/hypercycle/)
 | Flying Tulip       | [View Report](https://github.com/Jayfromthe13th/Flying-Tulip-Audit/blob/Wallet/report-cantinacode-flyingtulip-0923%20(3).pdf)
+| Coinbase         | *Coming Soon*  
 ---
 
 
@@ -61,6 +62,8 @@
 | Crossmint Audit Report | [View Report](https://github.com/Jayfromthe13th/Crossmint-Audit-Report-) |
 | Report on Suspected NFT Scam and Fake Profiles | [View Report](https://github.com/Jayfromthe13th/Report-Investigating-Suspected-NFT-Scam-and-Identifying-the-Use-of-Fake-Profiles) |
 | ElizaOS | [View Report](https://github.com/Jayfromthe13th/Eliza-Audit/blob/Wallet/report-cantinacode-eliza-labs-0912%20(1).pdf) |
+| Coinbase         | *Coming Soon*  
+
 
 ---
 

@@ -16,7 +16,7 @@
 | AquaSwap       | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                 |
 | Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-Audit-/blob/Wallet/report-cantinacode-thalaswap-xlpt.pdf )
 | Zetachain         | [View Report](https://github.com/zeta-chain/audit-reports/blob/main/11-07-2025%20Cantina%20SUI%20Audit%20Report.pdf)
-| LayerZero - Sui         | [View Report](file:///Users/jordanbishop/Downloads/LZ-SUI-EP-V2_Paladin_07-Oct-2025.pdf)
+| LayerZero - Sui         | [View Report](https://github.com/LayerZero-Labs/Audits/blob/main/audits/LZ-SUI-EP-V2_Paladin_07-Oct-2025.pdf)
 | LayerZero - Aptos       | *Coming Soon*  
 | Alphalend         | *Coming Soon*  
 | Echo         | *Coming Soon*  

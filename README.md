@@ -58,7 +58,8 @@
 |--------------|-------------|
 | Wonderland Security Audit | [View Report](https://github.com/Jayfromthe13th/Wonderland-Audit) |
 | ElizaOS | [View Report](https://github.com/Jayfromthe13th/Eliza-Audit/blob/Wallet/report-cantinacode-eliza-labs-0912%20(1).pdf) |
-| Coinbase         | *Coming Soon*  
+| Coinbase Sunrise        | *Coming Soon*  
+| Coinbase Sunrise  V2      | *Coming Soon*  
 | Sanctum        | *Coming Soon*  
 
 

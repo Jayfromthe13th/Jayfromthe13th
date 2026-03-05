@@ -12,7 +12,6 @@
 | OL Network          | [View Report](https://github.com/Jayfromthe13th/OL-Audit)               |
 | Dexlyn Bridge | [View Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf) |
 | Project Z      | [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report) |
-| StakeSphere    | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-)             |
 | AquaSwap       | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                 |
 | Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-Audit-/blob/Wallet/report-cantinacode-thalaswap-xlpt.pdf )
 | Zetachain         | [View Report](https://github.com/zeta-chain/audit-reports/blob/main/11-07-2025%20Cantina%20SUI%20Audit%20Report.pdf)

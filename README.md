@@ -53,18 +53,14 @@
 
 
 
-
-
-## Rust & Other Audits
+## Rust Audit Report Highlights
 
 | Project Name | Reports |
 |--------------|-------------|
 | Wonderland Security Audit | [View Report](https://github.com/Jayfromthe13th/Wonderland-Audit) |
-| Dreadnought Video Game Security Audit | [View Report](https://github.com/Jayfromthe13th/Dreadnought-Video-Game-Security-Audit) |
-| Crossmint Audit Report | [View Report](https://github.com/Jayfromthe13th/Crossmint-Audit-Report-) |
-| Report on Suspected NFT Scam and Fake Profiles | [View Report](https://github.com/Jayfromthe13th/Report-Investigating-Suspected-NFT-Scam-and-Identifying-the-Use-of-Fake-Profiles) |
 | ElizaOS | [View Report](https://github.com/Jayfromthe13th/Eliza-Audit/blob/Wallet/report-cantinacode-eliza-labs-0912%20(1).pdf) |
 | Coinbase         | *Coming Soon*  
+| Sanctum        | *Coming Soon*  
 
 
 ---
@@ -95,6 +91,12 @@
 | Arden           | An NFT collection coded in Move.                                                                                                 | [View Project](https://github.com/Jayfromthe13th/Arden.move/blob/Wallet/kn.move) |
 | MultiSignature Wallet | Provides simple deposit, spend, and withdraw functionalities with decentralized approval mechanisms.                       | [View Project](https://github.com/Jayfromthe13th/MultiSignature-Wallet-) |
 | LiquiCrowd      | A marketplace for top-tier cryptocurrency asset managers & market makers to borrow at significantly cheaper rates from crowd-funded liquidity pools. | [View Project](https://github.com/Jayfromthe13th/LiquiCrowd/tree/main) |
+
+## Other Security Engagements 
+| Dreadnought Video Game Security Audit | [View Report](https://github.com/Jayfromthe13th/Dreadnought-Video-Game-Security-Audit) |
+| Crossmint Audit Report | [View Report](https://github.com/Jayfromthe13th/Crossmint-Audit-Report-) |
+| Report on Suspected NFT Scam and Fake Profiles | [View Report](https://github.com/Jayfromthe13th/Report-Investigating-Suspected-NFT-Scam-and-Identifying-the-Use-of-Fake-Profiles) |
+
 
 
 ## Contributions

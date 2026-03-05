@@ -93,6 +93,9 @@
 | LiquiCrowd      | A marketplace for top-tier cryptocurrency asset managers & market makers to borrow at significantly cheaper rates from crowd-funded liquidity pools. | [View Project](https://github.com/Jayfromthe13th/LiquiCrowd/tree/main) |
 
 ## Other Security Engagements 
+
+| Project Name           | Reports                                                                 |
+|------------------------|------------------------------------------------------------------------------|
 | Dreadnought Video Game Security Audit | [View Report](https://github.com/Jayfromthe13th/Dreadnought-Video-Game-Security-Audit) |
 | Crossmint Audit Report | [View Report](https://github.com/Jayfromthe13th/Crossmint-Audit-Report-) |
 | Report on Suspected NFT Scam and Fake Profiles | [View Report](https://github.com/Jayfromthe13th/Report-Investigating-Suspected-NFT-Scam-and-Identifying-the-Use-of-Fake-Profiles) |

@@ -45,7 +45,10 @@
 | Topaz       | [View Report](https://github.com/Jayfromthe13th/Topaz.Audit) |
 | DragonSwap          | [View Report](https://paladinsec.co/projects/dragonswap/)   
 | HyperCycle          | [View Report](https://paladinsec.co/projects/hypercycle/)
-| Flying Tulip       | [View Report](https://github.com/Jayfromthe13th/Flying-Tulip-Audit/blob/Wallet/report-cantinacode-flyingtulip-0923%20(3).pdf)
+| Flying Tulip ftDNMM| [View Report](https://github.com/Jayfromthe13th/Flying-Tulip-Audit/blob/Wallet/report-cantinacode-flyingtulip-0923%20(3).pdf)
+| Flying Tulip ftDNMM V2 | *Coming Soon*  
+| Flying Tulip ftDNMM V3 | *Coming Soon*  
+| Flying Tulip YieldClamer | *Coming Soon*  
 | Coinbase         | *Coming Soon*  
 ---
 

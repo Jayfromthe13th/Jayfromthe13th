@@ -1,82 +1,86 @@
-## Move Audit Report Highlights
-
-| Project Name                  | Reports                                                                       |
-|-------------------------------|-----------------------------------------------------------------------------------|
-| Aave  Core       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Core%20V3.0.2%20Report.pdf)                 |
-| Aave  Core v2       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Core%20V3.1-V3.3%20Report.pdf)        
-| Aave  Peripheral       | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Periphery%20V3.0.2%20Report.pdf)   
-| Navi         | [View Report](https://github.com/Jayfromthe13th/Navi-Audit/blob/Wallet/Navi%20audit%20report%20by%20Certora.pdf)  
-| Kofi | [View Report](https://github.com/KofiFinance/audits/blob/main/Kofi%20Finance%20-%20Zenith%20Audit%20Report.pdf) |  
-| Poel         | [View Report](https://www.notion.so/Poel-Audit-7256847d27424a7a9fb5b17e449b7221)   
-| Studio Mirai           | [View Report](https://github.com/Jayfromthe13th/OL-Audit/blob/Wallet/audit.md)              |
-| OL Network          | [View Report](https://github.com/Jayfromthe13th/OL-Audit)               |
-| Dexlyn Bridge | [View Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf) |
-| Project Z      | [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report) |
-| AquaSwap       | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-)                 |
-| Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-Audit-/blob/Wallet/report-cantinacode-thalaswap-xlpt.pdf )
-| Zetachain         | [View Report](https://github.com/zeta-chain/audit-reports/blob/main/11-07-2025%20Cantina%20SUI%20Audit%20Report.pdf)
-| LayerZero - Sui         | [View Report](https://github.com/LayerZero-Labs/Audits/blob/main/audits/LZ-SUI-EP-V2_Paladin_07-Oct-2025.pdf)
-| LayerZero - Aptos       | *Coming Soon*  
-| Alphalend         | *Coming Soon*  
-| Echo         | *Coming Soon*  
-| Matrixport        | *Coming Soon*  
-
-
- 
-## Formal Verification Audit Highlights
-
-| Project Name                          | Reports                                                                         |
-|---------------------------------------|------------------------------------------------------------------------------------|
-| OL Network        | [View Report](https://github.com/Jayfromthe13th/ol_network_formal_verification)    |
-| Thala          | [View Report](https://github.com/Jayfromthe13th/Thala-FV) 
-| Aave          | [View Report](https://www.notion.so/Formal-Verification-Overview-for-aptos-v3-1b353dbbf4d580689560cb1110b90577) 
-| FullSail          |  [View Report](https://www.notion.so/Full-Sail-a1bcc2e7df084345a8b313db4c491c96)  
-
-
-## Solidity Audit Report Highlights
-
-| Project Name              | Reports |
-|---------------------------|-------------|
-| Sayfer              | [View Report](https://github.com/Jayfromthe13th/SayferCTF) |
-| Fortephy     | [View Report](https://github.com/Jayfromthe13th/Fortephy-Audit-Report) |
-| Sturdy        | [View Report](https://github.com/Jayfromthe13th/Sturdy-Audit-Report) |
-| Kelp       | [View Report](https://github.com/Jayfromthe13th/Kelp.DAO-) |
-| LayerZero   | [View Report](https://paladinsec.co/projects/layerzero) |
-| Topaz       | [View Report](https://github.com/Jayfromthe13th/Topaz.Audit) |
-| DragonSwap          | [View Report](https://paladinsec.co/projects/dragonswap/)   
-| HyperCycle          | [View Report](https://paladinsec.co/projects/hypercycle/)
-| Flying Tulip ftDNMM| [View Report](https://github.com/Jayfromthe13th/Flying-Tulip-Audit/blob/Wallet/report-cantinacode-flyingtulip-0923%20(3).pdf)
-| Flying Tulip ftDNMM V2 | *Coming Soon*  
-| Flying Tulip ftDNMM V3 | *Coming Soon*  
-| Flying Tulip YieldClamer | *Coming Soon*  
-| Coinbase         | *Coming Soon*  
----
 
 
 
+## ![Solidity](https://img.shields.io/badge/Solidity%20Audit%20Report%20Highlights-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-## Rust Audit Report Highlights
-
-| Project Name | Reports |
-|--------------|-------------|
-| Wonderland Security Audit | [View Report](https://github.com/Jayfromthe13th/Wonderland-Audit) |
-| ElizaOS | [View Report](https://github.com/Jayfromthe13th/Eliza-Audit/blob/Wallet/report-cantinacode-eliza-labs-0912%20(1).pdf) |
-| Coinbase Sunrise        | *Coming Soon*  
-| Coinbase Sunrise  V2      | *Coming Soon*  
-| Sanctum        | *Coming Soon*  
-
+| Project Name | Type | Description | Reports |
+|--------------|------|-------------|---------|
+| **Coinbase Settlement** | ![RWA](https://img.shields.io/badge/RWA-5D4037) ![Token Sale](https://img.shields.io/badge/Token%20Sale-0277BD) ![Vesting](https://img.shields.io/badge/Vesting-6A1B9A) ![Signatures](https://img.shields.io/badge/Signatures-455A64) ![Cross-chain](https://img.shields.io/badge/Cross--chain-5E35B1) | Smart contract system for a regulated private investment platform. Investors fund deals with USDC and, after a raise completes, claim allocated tokens via Merkle proof and EIP-712 signature verification. Also handles carry fee withdrawals, time-based vesting, and cross-chain withdrawals. | *Coming Soon* |
+| **Coinbase Multiproof** | ![L2/Rollup](https://img.shields.io/badge/L2%2FRollup-0277BD) ![Dispute Game](https://img.shields.io/badge/Dispute%20Game-C62828) ![ZK Proofs](https://img.shields.io/badge/ZK%20Proofs-6A1B9A) ![TEE Attestation](https://img.shields.io/badge/TEE%20Attestation-455A64) | Multiproof dispute game system for Base (Optimism-based L2). `AggregateVerifier.sol` requires multiple independent proof types (TEE attestations and ZK proofs) to finalize L2 state proposals on L1, with bonded proposers, challenger disputes, a 7-day resolution delay, DEFENDER/CHALLENGER resolution, delayed WETH bond claims, and faulty-proof nullification. | *Coming Soon* |
+| **Sayfer** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) | Decentralized lending platform enabling users to supply assets to earn yield or borrow against holdings, with smart-contract risk management and collateralization mechanisms. | [View Report](https://github.com/Jayfromthe13th/SayferCTF) |
+| **Fortephy** | ![Security Tooling](https://img.shields.io/badge/Security%20Tooling-B71C1C) ![Simulation](https://img.shields.io/badge/Simulation-455A64) | Smart contract auditing tool that deploys and simulates Solidity contracts to test for vulnerabilities and bugs; the audit focused on flaws and the tool's effectiveness. | [View Report](https://github.com/Jayfromthe13th/Fortephy-Audit-Report) |
+| **Sturdy** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Yield](https://img.shields.io/badge/Yield-EF6C00) ![Isolated Pools](https://img.shields.io/badge/Isolated%20Pools-6A1B9A) | Lending protocol enabling interest-free borrowing using yield from deposited collateral, built around isolated lending pools with individual risk parameters. | [View Report](https://github.com/Jayfromthe13th/Sturdy-Audit-Report) |
+| **Kelp** | ![Staking](https://img.shields.io/badge/Staking-00897B) ![Liquid Restaking](https://img.shields.io/badge/Liquid%20Restaking-00695C) ![Yield](https://img.shields.io/badge/Yield-EF6C00) | Liquid restaking protocol letting users stake assets while keeping liquidity through derivative tokens usable across DeFi, combining staking rewards with broader composability. | [View Report](https://github.com/Jayfromthe13th/Kelp.DAO-) |
+| **LayerZero** | ![Cross-chain/Bridge](https://img.shields.io/badge/Cross--chain%2FBridge-5E35B1) ![Messaging](https://img.shields.io/badge/Messaging-00838F) | Omnichain interoperability protocol enabling blockchains to communicate and transfer data directly, supporting cross-chain token transfers, unified liquidity, and multi-chain DeFi. | [View Report](https://paladinsec.co/projects/layerzero) |
+| **Topaz** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Yield](https://img.shields.io/badge/Yield-EF6C00) | DeFi protocol for lending, borrowing, and yield generation; users supply assets to earn interest or use holdings as collateral to access liquidity. | [View Report](https://github.com/Jayfromthe13th/Topaz.Audit) |
+| **DragonSwap** | ![Swaps/DEX](https://img.shields.io/badge/Swaps%2FDEX-0277BD) ![AMM](https://img.shields.io/badge/AMM-00838F) ![Staking/Farming](https://img.shields.io/badge/Staking%2FFarming-00897B) | AMM-based DEX enabling permissionless token swaps, liquidity provision, and yield generation, with staking, farming, and low-cost transactions. | [View Report](https://paladinsec.co/projects/dragonswap/) |
+| **HyperCycle** | ![AI/Infrastructure](https://img.shields.io/badge/AI%2FInfrastructure-283593) ![Payments](https://img.shields.io/badge/Payments-1565C0) ![Marketplace](https://img.shields.io/badge/Marketplace-00838F) | Decentralized network where AI agents interact, exchange services, and transact directly; infrastructure for an Internet of AI with machine-to-machine payments and scalable AI marketplaces. | [View Report](https://paladinsec.co/projects/hypercycle/) |
+| **Flying Tulip** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Soft Liquidations](https://img.shields.io/badge/Soft%20Liquidations-C62828) ![Yield](https://img.shields.io/badge/Yield-EF6C00) ![Oracles](https://img.shields.io/badge/Oracles-1565C0) | Smart contract protocol on Sonic combining a cross-asset lending market with RFQ-style soft liquidations. Supports delta-neutral positions where idle assets deposit into external yield sources like Aave; pricing via Chainlink oracles and a kinked interest rate curve tuned per asset risk profile. | *Coming Soon* |
+| **Flying Tulip V2** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Soft Liquidations](https://img.shields.io/badge/Soft%20Liquidations-C62828) ![Yield](https://img.shields.io/badge/Yield-EF6C00) ![Oracles](https://img.shields.io/badge/Oracles-1565C0) | Sonic-based protocol combining cross-asset lending with optimized RFQ-style soft liquidations and delta-neutral positions deployable into Aave. Introduces refined debt flow mechanics and more efficient liquidation routing, with Chainlink oracle pricing and a kinked rate curve. | *Coming Soon* |
+| **Flying Tulip V3** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Soft Liquidations](https://img.shields.io/badge/Soft%20Liquidations-C62828) ![Vesting](https://img.shields.io/badge/Vesting-6A1B9A) ![Oracles](https://img.shields.io/badge/Oracles-1565C0) | Sonic-based protocol combining cross-asset lending with a refined liquidation engine and integrated vesting system. Supports delta-neutral positions deployable into Aave, with more precise liquidation mechanics, structured vesting flows, Chainlink oracle pricing, and a kinked rate curve. | *Coming Soon* |
+| **Flying Tulip YieldClaimer** | ![Options](https://img.shields.io/badge/Options-AD1457) ![Yield](https://img.shields.io/badge/Yield-EF6C00) ![Token Sale](https://img.shields.io/badge/Token%20Sale-0277BD) ![NFT](https://img.shields.io/badge/NFT-AD1457) | Cash-secured put option product by Flying Tulip. Users deposit collateral (e.g. USDC) during a public sale to buy put option NFTs; collateral is wrapped and deployed into yield strategies like Aave. Principal stays protected/redeemable while yield is harvested to the treasury. The YieldClaimer role deploys idle collateral, harvests, sweeps, and force-withdraws as needed. | *Coming Soon* |
 
 ---
 
 
-## Sui Formal Verification Projects
+## ![Move](https://img.shields.io/badge/Move%20Audit%20Report%20Highlights-4A90D9?style=for-the-badge&logo=sui&logoColor=white)
 
-| Project Name           | Reports                                                                 |
-|------------------------|------------------------------------------------------------------------------|
-| Crowdfunding Example   | [View Report](https://github.com/Jayfromthe13th/crowdfunding-example)       |
-| Ensure Example         | [View Report](https://github.com/Jayfromthe13th/ensure-example)             |
-| Precision Lost    | [View Report](https://github.com/Jayfromthe13th/Precision_Lost--example)     | 
+| Project Name | Type | Description | Reports |
+|--------------|------|-------------|---------|
+| **Aave Core** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Flash Loans](https://img.shields.io/badge/Flash%20Loans-1565C0) ![Liquidations](https://img.shields.io/badge/Liquidations-C62828) | Foundational lending layer of the Aave protocol handling supply, borrow, liquidations, flash loans, and interest rate logic, maintaining the protocol's liquidity pools and collateralization requirements. | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Core%20V3.0.2%20Report.pdf) |
+| **Aave Core v2** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Flash Loans](https://img.shields.io/badge/Flash%20Loans-1565C0) ![Liquidations](https://img.shields.io/badge/Liquidations-C62828) | Iteration of the Aave core lending layer (V3.1–V3.3) covering supply, borrow, liquidations, flash loans, and interest rate calculations. | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Core%20V3.1-V3.3%20Report.pdf) |
+| **Aave Peripheral** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Rewards](https://img.shields.io/badge/Rewards-F9A825) ![Integrations](https://img.shields.io/badge/Integrations-6A1B9A) | Supplementary modules extending Aave beyond core lending: reward distribution, UI data providers, debt swap adapters, and helper contracts that simplify user interactions and external integrations. | [View Report](https://github.com/aave/aptos-aave-v3/blob/main/audits/Spearbit%20Aave%20Aptos%20Periphery%20V3.0.2%20Report.pdf) |
+| **AlphaLend Market Lending** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Interest-bearing Tokens](https://img.shields.io/badge/Interest--bearing%20Tokens-00695C) ![Oracles](https://img.shields.io/badge/Oracles-1565C0) ![Risk Management](https://img.shields.io/badge/Risk%20Management-C62828) | Decentralized lending and borrowing protocol on Sui where users supply assets into pooled liquidity markets to earn interest or borrow against collateral. Each market uses an interest-bearing xToken model with variable utilization-based rates, plus borrow limits, flow limiters, oracle price feeds, and spread/protocol fees ensuring safety and sustainability. | *Coming Soon* |
+| **AlphaLend Position / Partner** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Liquidations](https://img.shields.io/badge/Liquidations-C62828) ![Account/Positions](https://img.shields.io/badge/Account%2FPositions-455A64) ![Integrations](https://img.shields.io/badge/Integrations-6A1B9A) | Account layer tracking each user's cross-market portfolio of collateral, loans, and health status in USD, with continuous solvency evaluation and liquidation below threshold. The Partner system lets approved integrators create specialized positions with custom fee discounts and expanded collateral (e.g. Bluefin LP tokens) to build tailored DeFi products. | *Coming Soon* |
+| **AlphaLend Rewards / Staking** | ![Rewards](https://img.shields.io/badge/Rewards-F9A825) ![Staking](https://img.shields.io/badge/Staking-00897B) ![Yield](https://img.shields.io/badge/Yield-EF6C00) | Incentive layer distributing liquidity-mining rewards to depositors and borrowers by proportional share over scheduled windows, claimable directly or auto-compounded as collateral. Staking enables protocol-managed native SUI staking within the SUI market to earn validator yield for the pool. | *Coming Soon* |
+| **Echo** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Yield](https://img.shields.io/badge/Yield-EF6C00) ![Governance](https://img.shields.io/badge/Governance-6A1B9A) | DeFi platform enabling users to lend, borrow, and earn yield on crypto assets. The audit focused specifically on the governance module, evaluating its smart contracts for vulnerabilities and proper functionality, with recommendations to strengthen governance processes and ensure secure, transparent decision-making. | *Coming Soon* |
+| **Kofi** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) | Decentralized lending and borrowing platform letting users supply assets to earn interest or borrow against holdings, optimizing capital efficiency via flexible collateralization and automated interest accrual. | [View Report](https://github.com/KofiFinance/audits/blob/main/Kofi%20Finance%20-%20Zenith%20Audit%20Report.pdf) |
+| **Poel** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) | DeFi lending and borrowing platform allowing users to deposit assets to earn yield or access liquidity using holdings as collateral, with smart-contract risk management and automated interest mechanisms. | [View Report](https://www.notion.so/Poel-Audit-7256847d27424a7a9fb5b17e449b7221) |
+| **Matrixport** | ![RWA](https://img.shields.io/badge/RWA-5D4037) ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Trading](https://img.shields.io/badge/Trading-0277BD) ![Asset Management](https://img.shields.io/badge/Asset%20Management-455A64) | Crypto financial platform for trading, lending, and asset management with support for real-world assets (RWA) such as digital gold. Users buy, sell, and earn yield on tokenized assets, access structured products, and participate in lending markets, bridging traditional and digital assets. | *Coming Soon* |
+| **Zetachain** | ![Cross-chain/Bridge](https://img.shields.io/badge/Cross--chain%2FBridge-5E35B1) ![Messaging](https://img.shields.io/badge/Messaging-00838F) ![Interoperability](https://img.shields.io/badge/Interoperability-00838F) | Blockchain interoperability protocol enabling seamless cross-chain communication and asset transfers between networks, supporting unified liquidity, token swaps, and multi-chain DeFi through secure, scalable cross-chain operations. | *Coming Soon* |
+| **Studio Mirai** | ![NFT](https://img.shields.io/badge/NFT-AD1457) ![Marketplace](https://img.shields.io/badge/Marketplace-00838F) | NFT project creating and distributing unique digital collectibles, enabling buying, selling, and trading of tokens with on-chain provenance and ownership in a secure marketplace. | [View Report](https://github.com/Jayfromthe13th/OL-Audit/blob/Wallet/audit.md) |
+| **OL Network** | ![Infrastructure/L1](https://img.shields.io/badge/Infrastructure%2FL1-455A64) ![Interoperability](https://img.shields.io/badge/Interoperability-00838F) | Blockchain infrastructure platform supporting dApps and smart contracts with high scalability and low fees, focused on interoperability, performance, and developer-friendly tooling. | [View Report](https://github.com/Jayfromthe13th/OL-Audit) |
+| **Dexlyn Bridge** | ![Cross-chain/Bridge](https://img.shields.io/badge/Cross--chain%2FBridge-5E35B1) ![Interoperability](https://img.shields.io/badge/Interoperability-00838F) | Cross-chain bridge protocol enabling secure transfer of tokens and data between blockchain networks, maintaining security through cryptographic verification for fast, reliable cross-chain transactions. | [View Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf) |
+| **Project Z** | ![Staking](https://img.shields.io/badge/Staking-00897B) | Security audit of a staking-focused protocol. | [View Report](https://github.com/Jayfromthe13th/Project-Zenith-Security-Audit-Report) |
+| **StakeSphere** | ![Staking](https://img.shields.io/badge/Staking-00897B) | Security audit of a stealth staking protocol. | [View Report](https://github.com/Jayfromthe13th/StakeSphere-stealth-) |
+| **AquaSwap** | ![Swaps/DEX](https://img.shields.io/badge/Swaps%2FDEX-0277BD) ![AMM](https://img.shields.io/badge/AMM-00838F) ![Liquidity](https://img.shields.io/badge/Liquidity-3949AB) | AMM-based decentralized exchange enabling permissionless token swaps and liquidity provision. | [View Report](https://github.com/Jayfromthe13th/AuquaSwap-Audit-) |
+| **Thala** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Yield](https://img.shields.io/badge/Yield-EF6C00) | DeFi platform offering lending, borrowing, and yield optimization; users deposit assets to earn interest or use them as collateral, maximizing capital efficiency. | [View Report](https://github.com/Jayfromthe13th/Thala-Audit-/blob/Wallet/report-cantinacode-thalaswap-xlpt.pdf) |
+| **Navi** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Staking](https://img.shields.io/badge/Staking-00897B) ![Yield](https://img.shields.io/badge/Yield-EF6C00) | DeFi platform for managing assets, optimizing yield, and participating in liquidity markets via staking, lending, and borrowing with automation to improve capital efficiency. | *Coming Soon* |
+| **LayerZero - Aptos** | ![Cross-chain/Bridge](https://img.shields.io/badge/Cross--chain%2FBridge-5E35B1) ![Messaging](https://img.shields.io/badge/Messaging-00838F) | Omnichain interoperability protocol enabling Aptos applications to interact and transfer assets across chains through a verified messaging architecture. | *Coming Soon* |
+| **LayerZero - Sui** | ![Cross-chain/Bridge](https://img.shields.io/badge/Cross--chain%2FBridge-5E35B1) ![Messaging](https://img.shields.io/badge/Messaging-00838F) | Omnichain interoperability protocol enabling Sui-based applications to communicate and transfer assets securely with other blockchains via messaging-based verification. | *Coming Soon* |
+| **Decibel** | ![Perpetuals](https://img.shields.io/badge/Perpetuals-D84315) ![Orderbook](https://img.shields.io/badge/Orderbook-0277BD) ![Derivatives](https://img.shields.io/badge/Derivatives-AD1457) ![Oracles](https://img.shields.io/badge/Oracles-1565C0) | On-chain perpetual futures protocol built around a central limit order book (CLOB). Traders open leveraged long/short positions on perpetual swap markets with orders matched directly on-chain for transparent price discovery. Manages margin accounts, funding rate payments, liquidations on maintenance-margin breaches, and oracle-based mark pricing — delivering a CEX-like experience with DeFi self-custody. | *Coming Soon* |
 
+
+
+
+## ![Rust](https://img.shields.io/badge/Rust%20%26%20Other%20Audits-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+
+| Project Name | Type | Description | Reports |
+|--------------|------|-------------|---------|
+| **Coinbase Settlement Sale** | ![Token Sale](https://img.shields.io/badge/Token%20Sale-0277BD) ![Access Control](https://img.shields.io/badge/Access%20Control-455A64) ![Signatures](https://img.shields.io/badge/Signatures-6A1B9A) | Coinbase Sonar Solana program running permit-verified token sales. Participants commit an SPL token (e.g. USDC) against off-chain signed permits, tracked per entity and per wallet through a PreOpen → Commitment → Cancellation → Settlement → Done lifecycle. Built on Anchor 0.32 with Ed25519 precompile verification, a program-owned vault, and a bitmask-based RBAC model under a single admin authority. | *Coming Soon* |
+| **Coinbase Sunrise** | ![Swaps/DEX](https://img.shields.io/badge/Swaps%2FDEX-0277BD) ![Stablecoin](https://img.shields.io/badge/Stablecoin-2E7D32) ![Liquidity](https://img.shields.io/badge/Liquidity-3949AB) ![Access Control](https://img.shields.io/badge/Access%20Control-455A64) | Coinbase SCaaS Solana smart contract (Anchor) implementing a protocol-managed liquidity pool for 1:1 stablecoin swapping. A single global pool supports up to 50 token types, each with a dedicated vault, with a configurable basis-point fee, dual-authority access control (operations vs pause), slippage protection, liquidity reservation limits, and PDA-derived account validation. | *Coming Soon* |
+| **Coinbase Sunrise V2** | ![Swaps/DEX](https://img.shields.io/badge/Swaps%2FDEX-0277BD) ![Stablecoin](https://img.shields.io/badge/Stablecoin-2E7D32) ![Liquidity](https://img.shields.io/badge/Liquidity-3949AB) ![Whitelist](https://img.shields.io/badge/Whitelist-6A1B9A) | Solana smart contract (Anchor, Rust) for Coinbase's SCaaS stablecoin liquidity protocol. Implements a global liquidity pool enabling 1:1 swaps between supported stablecoins with configurable fees, slippage protection, decimal normalization, a dual authority model, and an address whitelist system. | *Coming Soon* |
+| **Sanctum** | ![Staking](https://img.shields.io/badge/Staking-00897B) ![Liquid Staking](https://img.shields.io/badge/Liquid%20Staking-00695C) ![Wrapped Assets](https://img.shields.io/badge/Wrapped%20Assets-3949AB) ![Formal Verification](https://img.shields.io/badge/Formal%20Verification-6E40C9) | SOLS is a Sanctum Solana program implementing fractional reserve wrapped SOL. Users deposit SOL and receive SOLS, with careful tracking of supply vs lamports owed. Written in Rust (Solana BPF), split into core math/invariants, the Jiminy parsing layer, the deployed program with hot/cold routing, and a Mollusk test harness. Supports rebalancing, protocol fees, admin/manager roles, and Kani formal verification of core logic. | *Coming Soon* |
+| **Wonderland Security Audit** | ![GameFi](https://img.shields.io/badge/GameFi-AD1457) ![Randomness/VRF](https://img.shields.io/badge/Randomness%2FVRF-6A1B9A) ![Rewards](https://img.shields.io/badge/Rewards-F9A825) ![Referrals](https://img.shields.io/badge/Referrals-00838F) | Solana GameFi protocol (Anchor) where users buy keys, earn rewards from later purchases, and compete for mini and grand jackpots powered by verifiable randomness, with vaults, a game timer, and a merkle-backed referral system. | [View Report](https://github.com/Jayfromthe13th/Wonderland-Audit) |
+| **Dreadnought Video Game Security Audit** | ![GameFi](https://img.shields.io/badge/GameFi-AD1457) ![Security Tooling](https://img.shields.io/badge/Security%20Tooling-B71C1C) | Security audit of the Dreadnought video game, evaluating vulnerabilities and integrity of the game's systems. | [View Report](https://github.com/Jayfromthe13th/Dreadnought-Video-Game-Security-Audit) |
+| **Crossmint Audit Report** | ![NFT](https://img.shields.io/badge/NFT-AD1457) ![Payments](https://img.shields.io/badge/Payments-1565C0) ![Infrastructure](https://img.shields.io/badge/Infrastructure-455A64) | Security audit of Crossmint's NFT minting and payments infrastructure. | [View Report](https://github.com/Jayfromthe13th/Crossmint-Audit-Report-) |
+| **Report on Suspected NFT Scam and Fake Profiles** | ![NFT](https://img.shields.io/badge/NFT-AD1457) ![Investigation/Fraud](https://img.shields.io/badge/Investigation%2FFraud-B71C1C) | Investigative report on a suspected NFT scam and the identification of fake profiles used to facilitate it. | [View Report](https://github.com/Jayfromthe13th/Report-Investigating-Suspected-NFT-Scam-and-Identifying-the-Use-of-Fake-Profiles) |
+| **ElizaOS** | ![AI/Infrastructure](https://img.shields.io/badge/AI%2FInfrastructure-283593) ![Token Migration](https://img.shields.io/badge/Token%20Migration-0277BD) ![Whitelist/Merkle](https://img.shields.io/badge/Whitelist%2FMerkle-6A1B9A) | Solana smart contract (Anchor) for ElizaLabs handling a controlled token migration, allowing whitelisted wallets to swap one SPL token for another at a fixed rate, gated by a Merkle tree whitelist with per-wallet limits. | [View Report](https://github.com/Jayfromthe13th/Eliza-Audit/blob/Wallet/report-cantinacode-eliza-labs-0912%20(1).pdf) |
+
+
+
+## ![Formal Verification](https://img.shields.io/badge/Formal%20Verification%20Audit%20Highlights-6E40C9?style=for-the-badge&logoColor=white)
+
+| Project Name | Type | Description | Reports |
+|--------------|------|-------------|---------|
+| **OL Network** | ![Infrastructure/L1](https://img.shields.io/badge/Infrastructure%2FL1-455A64) ![Formal Verification](https://img.shields.io/badge/Formal%20Verification-6E40C9) | Formal verification of OL Network's blockchain infrastructure, proving correctness of core on-chain logic. | [View Report](https://github.com/Jayfromthe13th/ol_network_formal_verification) |
+| **Thala** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Yield](https://img.shields.io/badge/Yield-EF6C00) ![Formal Verification](https://img.shields.io/badge/Formal%20Verification-6E40C9) | Formal verification of Thala's lending and yield logic to prove invariants and ensure correctness. | [View Report](https://github.com/Jayfromthe13th/Thala-FV) |
+| **Aave** | ![Lending](https://img.shields.io/badge/Lending-2E7D32) ![Formal Verification](https://img.shields.io/badge/Formal%20Verification-6E40C9) | Formal verification overview for Aave Aptos V3, proving correctness of core lending and accounting logic. | [View Report](https://www.notion.so/Formal-Verification-Overview-for-aptos-v3-1b353dbbf4d580689560cb1110b90577) |
+| **FullSail** | ![Swaps/DEX](https://img.shields.io/badge/Swaps%2FDEX-0277BD) ![Formal Verification](https://img.shields.io/badge/Formal%20Verification-6E40C9) | Formal verification of FullSail's DEX/swap logic to validate core invariants. | [View Report](https://www.notion.so/Full-Sail-a1bcc2e7df084345a8b313db4c491c96) |
+
+
+
+---
 
 
 ---
